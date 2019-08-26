@@ -1,0 +1,49 @@
+/*
+  Add the following properties to this div:
+  display:
+  grid-template-columns:
+  grid-template-rows:
+
+  You can use px, %, or fr values
+*/
+#container {
+  background-color: #FF835C;
+
+
+}
+
+
+/*
+  You are NOT allowed to change the width or height
+  of the divs below. You must use the grid to make those
+  changes instead.
+
+  You can use grid-column: and grid-row: to make these
+  divs fill the area you'd like them to be.
+
+  ex: grid-column: 1 / span 3;
+  This would make the div start in column 1 and spread across 3 columns
+*/
+#titlebar {
+  background-color: #DA54E8;
+
+
+}
+
+#sidebar {
+  background-color: #6984FF;
+
+
+}
+
+#main {
+  background-color: #54E8C2;
+
+
+}
+
+#footer {
+  background-color: #9AFF39;
+
+
+}
